@@ -1,16 +1,15 @@
-### Hi there 👋
+个人简历：[在线简历(Markdown版](https://litblue.cn/book/resume/)
+博客：https://litblue.cn 
 
-<!--
-**litblue/litblue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+邮箱：
 
-Here are some ideas to get you started:
+网易邮箱: litblue@163.com
+Google邮箱：litbluehandy@gmail.com
+CSDN: litblue'blog
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Git仓库：
+
+GitHub：https://github.com/litblue
+
+Gitee：https://gitee.com/litblue
+
